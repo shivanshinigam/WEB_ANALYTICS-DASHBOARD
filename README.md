@@ -38,4 +38,10 @@ This is an interactive **Streamlit** dashboard for web analytics, designed to an
    - **KMeans clustering** is used to group websites or pages into clusters based on similar traffic patterns. For instance, websites with similar bounce rates, exit rates, and page views will be grouped together, enabling us to analyze common behaviors across different website categories.
 
 📷 Screenshots
+<img width="1644" alt="Screenshot 2025-04-12 at 11 15 28 PM" src="https://github.com/user-attachments/assets/8eccfa82-1e57-43f2-b6f1-8f213103c425" />
+
+<img width="1633" alt="Screenshot 2025-04-12 at 11 15 50 PM" src="https://github.com/user-attachments/assets/c6d78a1d-9701-47ba-9a62-11305fcd4a57" />
+
+<img width="1628" alt="Screenshot 2025-04-12 at 11 16 19 PM" src="https://github.com/user-attachments/assets/505421d5-852f-468a-899c-8839d94406aa" />
+
 
