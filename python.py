@@ -13,7 +13,7 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 from statsmodels.tsa.api import VAR
 from statsmodels.tsa.stattools import adfuller
 
-from prophet import Prophet
+
 import xgboost as xgb
 from sklearn.ensemble import RandomForestRegressor
 
