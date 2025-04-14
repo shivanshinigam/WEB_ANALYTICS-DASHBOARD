@@ -1,4 +1,5 @@
 # 📊 Web Analytics Dashboard
+Check out the live app [here](https://webanalytics-dashboard-5kgmg2kop43oozv2efuubz.streamlit.app/).
 
 This is an interactive **Streamlit** dashboard for web analytics, designed to analyze web traffic data with various machine learning models, anomaly detection, and forecasting techniques. It includes:
 
